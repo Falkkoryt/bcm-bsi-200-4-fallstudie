@@ -1,1 +1,0 @@
-# bcm-bsi-200-4-fallstudie
